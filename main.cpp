@@ -16,5 +16,5 @@ int main()
     IShape *circle_ptr = &circle;
     std::cout<<"\nCircle circumference: "<<circle_ptr->circumference();
     std::cout<<"\nabc branch ";
-	std::cout<<"\nabc branch merging";
+	std::cout<<"\nabc branch merging**";
 }
