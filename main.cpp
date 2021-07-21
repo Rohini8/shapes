@@ -16,4 +16,5 @@ int main()
     IShape *circle_ptr = &circle;
     std::cout<<"\nCircle circumference: "<<circle_ptr->circumference();
    std::cout<<"\nNew branch ";
+    std::cout<<"\nNew branch ";
 }
